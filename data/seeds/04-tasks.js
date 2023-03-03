@@ -48,13 +48,13 @@ const taskData = [
     task_description: "Equalis-TL Hot rivet machine revision",
     task_notes: "All nipple system will be remodified",
     task_completed: true,
-    project_id: 3,
+    project_id: 4,
   },
   {
     task_description: "Equalis-TL final control machine revision",
     task_notes: "SCADA system will be remodified",
     task_completed: true,
-    project_id: 3,
+    project_id: 4,
   },
 ];
 exports.seed = async function (knex) {
